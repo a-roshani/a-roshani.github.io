@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/amin__roshani"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=PpgpxNIAAAAJ&hl=en"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
