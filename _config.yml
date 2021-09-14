@@ -90,6 +90,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  	- "https://twitter.com/amin_roshani"
+    - "https://instagram.com/amin__roshani"
+    - "https://www.linkedin.com/in/amin-roshani-91399b121"
+    - "https://scholar.google.com/citations?user=PpgpxNIAAAAJ&hl=en"
 
 # Analytics
 analytics:
