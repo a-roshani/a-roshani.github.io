@@ -5,7 +5,7 @@ defaults:
       type: pages
     values:
       show_date: true
-      layout: single
+      layout: posts
       author_profile: true
       read_time: true
       comments: null
