@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "mint", "dark", "dirt", "neon", "default", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fa-IR"#"en-US"
 title                    : "Amin Roshani WebPage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
