@@ -6,3 +6,8 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.initial-content, .search-content {
+  flex: 1 0 auto;
+  margin-left: 1cm;
+}
