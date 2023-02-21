@@ -2,10 +2,9 @@
 published: true
 ---
 
-کمی متن فارسی
+محاسبات آماری 
 
-* First Item
-* Second Item.
+* شنبه 8-10
 
 ### Section one
 
