@@ -2,7 +2,7 @@
 published: true
 ---
 
-This is a first Post that I created by Rstudio Git Version Control
+کمی متن فارسی
 
 * First Item
 * Second Item.
