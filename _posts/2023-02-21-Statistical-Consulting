@@ -4,9 +4,9 @@ published: true
 
 ## Class Information:
 
-**Class times:** Sat 8-9:30 AM, Tues 10-11:30 AM
+**Class times:** Tues 15-16:30 PM
 
-**Class room:** 119, 120
+**Class room:** 121
 
 **Final exam:**
 
@@ -16,12 +16,9 @@ _Amin Roshani_ (roshani.amin@gmail.com)
 
 ## Required Texts:
 
-* Moradi, Mohammad and Abdollah Jalilian (2017). Statistical Computing with R. Parsian Press.
-  + Available at [http://parsianspub.ir/](http://parsianspub.ir/)
+* Javier Cabrera, Andrew McDougall (2002). Statistical Consulting. Springer-Verlag New York.
+  + Available at [EN-Book](../files/Javier Cabrera, Andrew McDougall (auth.) - Statistical Consulting-Springer-Verlag New York (2002).pdf)
 
-* Rizzo, Maria L. (2019). Statistical computing with R. Chapman and Hall/CRC.
-  + Available at [download](../files/SC/[4] [Maria L. Rizzo][2019] Statistical Computing  with R, Second Edition.pdf)
+* Javier Cabrera, Andrew McDougall (2002). Statistical Consulting. Springer-Verlag New York.
+  + Available at [FA-Book](../files/[FA] Statistical Consulting.pdf)
 
-Week | R code 
------|-----
-Week1|[1401-12-02.txt](../files/SC/R_code/[1] 1401-12-02.txt)
