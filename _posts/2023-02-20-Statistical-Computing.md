@@ -12,7 +12,7 @@ published: true
 
 ## Instructor information:
 
-_Amin Roshani_ (roshani.amin@gmail.com)
+_Amin Roshani_ (mailto:roshani.amin@gmail.com)
 
 ## Required Texts:
 
