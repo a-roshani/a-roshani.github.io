@@ -20,4 +20,4 @@ _Amin Roshani_ (roshani.amin@gmail.com)
   + Available at [http://parsianspub.ir/](http://parsianspub.ir/)
 
 * Rizzo, Maria L. (2019). Statistical computing with R. Chapman and Hall/CRC.
-  + Available at 
+  + Available at [download](https://github.com/a-roshani/a-roshani.github.io/blob/4a4b228bf52d0128e610ab301acf479be945b3ec/files/Rizzo-SC-ed2.pdf)
