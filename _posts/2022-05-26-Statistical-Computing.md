@@ -2,13 +2,15 @@
 published: true
 ---
 
-# Class Information:
+## Class Information:
 
 **Class times:** Sat 8-9:30 AM, Tues 10-11:30 AM
+
 **Class room:** 119, 120
+
 **Final exam:**
 
-# Instructor information:
+## Instructor information:
 
 ### Section one
 
