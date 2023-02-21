@@ -12,8 +12,12 @@ published: true
 
 ## Instructor information:
 
-### Section one
+_Amin Roshani_ (roshani.amin@gmail.com)
 
-- [] Finish my changes
-- [x] Push my commits to GitHub
-- [ ] Open a pull request
+## Required Texts:
+
+* Moradi, Mohammad and Abdollah Jalilian (2017). Statistical Computing with R. Parsian Press.
+  + Available at [http://parsianspub.ir/](http://parsianspub.ir/)
+
+* Rizzo, Maria L. (2019). Statistical computing with R. Chapman and Hall/CRC.
+  + Available at 
