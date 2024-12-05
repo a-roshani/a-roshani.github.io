@@ -108,7 +108,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fa-regular fa-envelope"
+      icon: "fab fa-fw fa-at"
       url: "mailto:roshani.amin@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-at"
